@@ -2,7 +2,7 @@
 
 An end-to-end Retail Business Intelligence project combining an **interactive web dashboard** with a **C-suite executive forensic report** analyzing $2.26M in revenue across 4,922 orders (2015–2018).
 
-🔗 **Live Interactive Dashboard:** [Launch Web App](https://<your-username>.github.io/superstore-sales-dashboard/)  
+🔗 **Live Interactive Dashboard:** [Launch Web App](https://USERNAME.github.io/superstore-sales-dashboard/)  
 📄 **Executive Strategy Report:** [View Analysis Deck (PDF)](Superstore_Growth_Sustainability_Analysis.pdf)
 
 ---
